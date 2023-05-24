@@ -14,7 +14,7 @@
 
 ## Objective
 ---
-<br>
+
 
 - Write a program that reads a string and then prints if the string is a palindrome or not. 
 
