@@ -4,7 +4,7 @@
 ---
 
 
-### How Nim Works
+### What is a **Palindrome**
 
 <br>
 
